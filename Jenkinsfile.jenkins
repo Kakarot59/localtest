@@ -14,7 +14,7 @@ pipeline {
             }
         }
        
-       
+
         // stage('Inspection') {
         //     steps {
         //         echo 'Calling inspection..'
